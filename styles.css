@@ -1,0 +1,21 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.weather-info {
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+#image-container {
+    margin-top: 20px;
+}
+
+#image-container img {
+    max-width: 100%;
+}
